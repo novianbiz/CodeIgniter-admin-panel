@@ -20,7 +20,7 @@ class Users_model extends CI_Model {
 			return true;
 		}
 		
-		return true;	
+		return false;	
 	}
 
     /**
